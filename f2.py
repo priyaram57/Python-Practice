@@ -1,1 +1,0 @@
-A distributed version control system (DVCS) is a type of version control where the complete codebase — including its full version history — is mirrored on every developer's computer. It's abbreviated DVCS. Changes to files are tracked between computers.
